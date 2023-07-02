@@ -15,4 +15,7 @@ https://haijee.github.io
 
 ## 项目
 - 网址导航：https://next123.cn
-- 项目初始化：[用于项目初始化的一些代码架构](https://github.com/any-demo/)
+- 项目初始化：
+  - [使用Webpack5搭建的react项目初始化](https://github.com/haijee/webpack-react-ts.git)
+  - [使用Vite搭建的react项目初始化](https://github.com/haijee/vite-react-ts.git)
+  - [使用Vite搭建的vue3项目初始化](https://github.com/haijee/vite-vue.git)
